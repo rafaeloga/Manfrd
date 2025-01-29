@@ -1,0 +1,551 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rafael",
+      "surnames": "López García",
+      "title": "Ingeniero de datos | Ingeniero de Software | Master en Data Science | Master en Big Data & Analytics | Machine Learning | Big Data | GIS",
+      "description": "Email: rafaeloga@gmail.com\nSkype: rafaeloga\nTwitter: @rafaeloga\nGitHub: rafaeloga\n\nMáster Data Analytics y Big Data en Datahack\n\nData Engineer. Big Data. Data Visualization.\n\nGraduado en Ingeniería Informática, Técnico Superior en Desarrollo de Aplicaciones Informáticas.\n\nEspecialidades:\n\n- Conocimientos big data. Hadoop, Hdfs, Hive, Pig, Storm, Spark. Microsoft HdInsight, Kafka, Azure EventHub, Sqoop\n\n- Análisis de datos con R y Python. Machine Learning. Deep Learning.\n\n- Indexación, estudio y visualización de datos con Splunk, ELK Stack, Power BI y Excel\n\n- Bases de datos no relacionales: Cassandra, MongoDB, HBase, CosmosDB.\n\n- Herramientas de Ingesta de datos y ETL: Apache NiFi, Azure Data Factory, Flume.\n\nFull Stack Developer. Microsoft Certified Solution Developer (MSCD) Web Applications, Microsoft Certified Professional Developer (MCPD) Web Developer 4, Microsoft Certified Professional Developer (MCPD) Windows Phone Developer, Microsoft Certified Professional Developer (MCPD) Silverlight 4 . Consultor de nuevas tecnologías.\n\n- Entorno web. Desarrollo de soluciones distribuidas ASP.NET C#, PHP y/o JAVA. Conocimientos y experiencia en ASP.NET MVC, Forms, AJAX, jQuery, WebApi, XML, HTML 5, JSON…\n\n- Modelos de Datos. Diseño e implementación de lógicas de Negocio, modelos relacionales, acceso y consumo de datos. Conocimientos de bases de datos relacionales como SQL Server, Oracle, y MySql, ADO.NET Entity Framework, desarrollos N-Capas, Windows Communication Foundation (WCF), servicios REST, SOAP…\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/46804653-af7f-4018-ace2-b24c254e499d_linkedin-photo-17246.linkedin-photo-17246",
+        "alt": "24/05/16/46804653-af7f-4018-ace2-b24c254e499d_linkedin-photo-17246.linkedin-photo-17246"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/rafaeloga"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bristol-Myers Squibb, Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/a6278541-42f3-4616-85b6-8556b2588535_linkedin-photo-17246.linkedin-photo-17246",
+            "alt": "24/05/16/a6278541-42f3-4616-85b6-8556b2588535_linkedin-photo-17246.linkedin-photo-17246"
+          }
+        },
+        "roles": [
+          {
+            "name": "Beca de colaboracion en el departamento Help Desk",
+            "startDate": "2024-05-16",
+            "challenges": [
+              {
+                "description": "Beca de colaboración entre el departamento de informática de Bristol Bristol-Myers Squibb Madrid y la Universidad Politécnica de Madrid prestando tele asistencia informática a los delegados farmacéuticos de la compañía"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Envision Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/a8e64367-1382-4de2-b8c3-8929f1b58a1b_linkedin-photo-17246.linkedin-photo-17246",
+            "alt": "24/05/16/a8e64367-1382-4de2-b8c3-8929f1b58a1b_linkedin-photo-17246.linkedin-photo-17246"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador JAVA",
+            "startDate": "2024-05-16",
+            "challenges": [
+              {
+                "description": "Programador y Analista Programador en proyectos para diversas empresas como Orange, Iberinco, Logesta, Laufen - Roca. Proyectos desarrollados con diversas tecnologías JAVA y Oracle"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/dc93cbfa-7040-486e-98bd-4c9c5be9a5d2_linkedin-photo-17246.linkedin-photo-17246",
+            "alt": "24/05/16/dc93cbfa-7040-486e-98bd-4c9c5be9a5d2_linkedin-photo-17246.linkedin-photo-17246"
+          }
+        },
+        "roles": [
+          {
+            "name": "Coordinador de Actividades de Ocio y Tiempo Libre",
+            "startDate": "2024-05-16",
+            "challenges": [
+              {
+                "description": "Coordinador de actividades en campamentos juveniles de verano."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Text Expert Treatment"
+        },
+        "roles": [
+          {
+            "name": "Consultor Tecnológico",
+            "startDate": "2024-05-16",
+            "challenges": [
+              {
+                "description": "Como consultor de nuevas tecnologias encargado del asesoramiento tecnologico para el analisis, diseño, desarrollo e implantacion de material educativo dentro del marco de las nuevas aulas virtuales.\nDesarrollo e implementacion de metodos de aprendizaje para empresas como SGEL (Sociedad española de libreria S.A.), Pearson y Alhambra"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Administración Publica"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software y datos",
+            "startDate": "2024-05-16"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Noesis Analisis Financiero",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/bdc79af6-09db-4509-bf5e-f96805a67864_linkedin-photo-17246.linkedin-photo-17246",
+            "alt": "24/05/16/bdc79af6-09db-4509-bf5e-f96805a67864_linkedin-photo-17246.linkedin-photo-17246"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director del departamento de IT",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-05-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Noesis Analisis Financiero",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/16/7cf52525-ca8d-4e34-ab80-3bf07d2ac8e1_linkedin-photo-17246.linkedin-photo-17246",
+            "alt": "24/05/16/7cf52525-ca8d-4e34-ab80-3bf07d2ac8e1_linkedin-photo-17246.linkedin-photo-17246"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer .NET",
+            "startDate": "2008-03-01",
+            "finishDate": "2016-05-31",
+            "challenges": [
+              {
+                "description": "Analista Programador en el área de sitios web y portales, encargado del análisis, implementación, desarrollo y mantenimiento de proyectos para Intranet, Sites y Aplicaciones web, siendo el principal responsable de desarrollo de esta área. Responsable del mantenimiento de varios proyectos internos y de clientes como Bankiabolsa, Forexmotion.com, Invertia, Terminales de Información, etc.\n\nNoesis A.F es una consultora, partner de Microsoft, que mantiene su core de generación de research y contenidos, proporcionando además servicios en el área de control de riesgos, gestión de patrimonios y desarrollo de negocio. Más de 50 proyectos desarrollados a lo largo de los últimos años con clientes institucionales nos avalan."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HDFS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Web3",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Data Science with Python  Track",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "DataCamp",
+          "URL": "https://www.datacamp.com/"
+        },
+        "finishDate": "2022-09-01",
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "Universidad a Distancia de Madrid"
+        },
+        "finishDate": "2015-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "I Hoja de Ruta en Ciberseguridad",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Centro Criptológico Nacional (CCN-Cert)",
+          "URL": "https://angeles.ccn-cert.cni.es/index.php/es/menu-formacion-es/cursos-stic"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingenieria Tecnica Ingenieria Informatica",
+        "startDate": "2004-09-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid"
+        },
+        "finishDate": "2008-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master MBA Web3",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Web3 MBA Bit2Me",
+          "URL": "https://web3mba.io/"
+        },
+        "finishDate": "2022-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Solidity",
+            "type": "technology"
+          },
+          {
+            "name": "Web3",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master en Tecnología Big Data & Analytics ",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Datahack School",
+          "URL": "https://www.datahack.es/formacion/"
+        },
+        "finishDate": "2022-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Elasticsearch",
+            "type": "technology"
+          },
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NEO4J",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "Spark",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master in Programming JAVA  and Oracle 11G",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "AEDE Technology School"
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master postgrado Data Science",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Universidad Oberta  de Cataluña"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft - MCTS .Net framework 4",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Microsoft"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft - MSCD Web Applications",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Microsoft"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Microsoft Professional Program (MPP) for Big Data",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Microsoft"
+        },
+        "finishDate": "2019-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Azure CosmosDB",
+            "type": "technology"
+          },
+          {
+            "name": "Databricks",
+            "type": "technology"
+          },
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Preparing for Google Cloud Certification: Cloud Data Engineer",
+        "startDate": "2020-01-01",
+        "institution": {
+          "name": "Google"
+        },
+        "finishDate": "2020-12-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Python Data Science Program",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "IBM Data Science Program"
+        },
+        "finishDate": "2019-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2002-09-01",
+        "institution": {
+          "name": "Centro Europeo de Estudios Profesionales",
+          "description": "Ciclo formativo de Formación Profesional en Desarrollo de Aplicaciones Informáticas."
+        },
+        "finishDate": "2004-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/rafaeloga",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Databricks",
+          "type": "technology"
+        },
+        {
+          "name": "PySpark",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
+        "Data Scientist"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Ultimas tecnologías y un proyecto retador. Un equipo humano potente con los avanzar día y día y de los que aprender "
+  }
+}
