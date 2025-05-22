@@ -178,6 +178,12 @@
       },
       {
         "skill": {
+          "name": "Apache NiFi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
@@ -215,6 +221,12 @@
       {
         "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -551,6 +563,24 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Apache NiFi",
+        "type": "technology"
+      },
+      {
+        "name": "NoSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Spark",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Ultimas tecnologías y un proyecto retador. Un equipo humano potente con los avanzar día y día y de los que aprender "
   }
 }
