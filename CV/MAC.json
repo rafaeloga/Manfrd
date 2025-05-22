@@ -543,7 +543,12 @@
         "Data Scientist"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Ultimas tecnologías y un proyecto retador. Un equipo humano potente con los avanzar día y día y de los que aprender "
